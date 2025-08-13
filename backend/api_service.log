@@ -1,0 +1,66 @@
+2025-08-09 21:32:36,134 - WARNING - API_ACCESS_KEY environment variable not set. The API will not require authentication.
+2025-08-09 21:32:36,150 - INFO - Checking connection to Ollama...
+2025-08-09 21:32:36,169 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-08-09 21:32:36,170 - INFO - Ollama connection successful.
+2025-08-09 21:33:41,230 - WARNING - API_ACCESS_KEY environment variable not set. The API will not require authentication.
+2025-08-09 21:33:41,244 - INFO - Starting server on http://localhost:8000
+2025-08-09 21:33:41,331 - INFO - Checking connection to Ollama...
+2025-08-09 21:33:41,340 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-08-09 21:33:41,341 - INFO - Ollama connection successful.
+2025-08-09 21:35:56,222 - INFO - Processing request ddbd0f0d-5d77-4b68-80a8-5c32fe74f9d5 with model phi3:mini
+2025-08-09 21:36:25,954 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-09 21:36:25,954 - WARNING - Request ddbd0f0d-5d77-4b68-80a8-5c32fe74f9d5: Model response was not valid JSON. Wrapping raw content.
+2025-08-09 21:36:25,955 - INFO - Request ddbd0f0d-5d77-4b68-80a8-5c32fe74f9d5 completed successfully.
+2025-08-09 21:36:50,801 - INFO - Processing request 440bd923-2374-4eb7-9d58-85671e408cff with model phi3:mini
+2025-08-09 21:37:02,128 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-09 21:37:02,128 - WARNING - Request 440bd923-2374-4eb7-9d58-85671e408cff: Model response was not valid JSON. Wrapping raw content.
+2025-08-09 21:37:02,129 - INFO - Request 440bd923-2374-4eb7-9d58-85671e408cff completed successfully.
+2025-08-09 21:37:06,045 - WARNING - API_ACCESS_KEY environment variable not set. The API will not require authentication.
+2025-08-09 21:37:06,063 - INFO - Checking connection to Ollama...
+2025-08-09 21:37:06,071 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-08-09 21:37:06,072 - INFO - Ollama connection successful.
+2025-08-09 21:37:39,033 - INFO - Processing request 284608e4-1663-4ad5-ac09-e8bee7663b49 with model phi3:mini
+2025-08-09 21:37:52,740 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-09 21:37:52,741 - WARNING - Request 284608e4-1663-4ad5-ac09-e8bee7663b49: Model response was not valid JSON. Wrapping raw content.
+2025-08-09 21:37:52,741 - INFO - Request 284608e4-1663-4ad5-ac09-e8bee7663b49 completed successfully.
+2025-08-09 21:38:05,852 - INFO - Processing request 1eb2f325-feb0-4034-b1b6-cb2097d140f6 with model phi3:mini
+2025-08-09 21:41:46,441 - INFO - Processing website generation request e58aeb04-b6d1-47ae-b6d6-63e67eb2ccb3
+2025-08-09 21:41:46,474 - INFO - Website generation request e58aeb04-b6d1-47ae-b6d6-63e67eb2ccb3 completed successfully. URL: /websites/aa801ed9-794c-4204-81d7-ba44e6508553/index.html
+2025-08-09 21:51:41,973 - INFO - Processing request a9800cbb-1702-45b3-9cef-4b6a89786452 with model phi3:mini
+2025-08-09 21:51:55,201 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-09 21:51:55,202 - INFO - Request a9800cbb-1702-45b3-9cef-4b6a89786452 completed successfully.
+2025-08-11 15:05:48,908 - WARNING - API_ACCESS_KEY environment variable not set. The API will not require authentication.
+2025-08-11 15:05:48,921 - INFO - Starting server on http://localhost:8001
+2025-08-11 15:05:49,111 - INFO - Checking connection to Ollama...
+2025-08-11 15:05:51,145 - CRITICAL - Failed to connect to Ollama on startup. Please ensure Ollama is running. Error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-08-11 15:07:14,479 - INFO - Shutting down API service.
+2025-08-11 15:07:17,612 - WARNING - API_ACCESS_KEY environment variable not set. The API will not require authentication.
+2025-08-11 15:07:17,624 - INFO - Starting server on http://localhost:8001
+2025-08-11 15:07:17,724 - INFO - Checking connection to Ollama...
+2025-08-11 15:07:19,748 - CRITICAL - Failed to connect to Ollama on startup. Please ensure Ollama is running. Error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-08-11 15:08:09,929 - INFO - Shutting down API service.
+2025-08-11 15:11:11,564 - WARNING - API_ACCESS_KEY environment variable not set. The API will not require authentication.
+2025-08-11 15:11:11,575 - INFO - Starting server on http://localhost:8001
+2025-08-11 15:11:11,637 - INFO - Checking connection to Ollama...
+2025-08-11 15:11:11,643 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-08-11 15:11:11,644 - INFO - Ollama connection successful.
+2025-08-11 15:13:11,221 - INFO - Processing request 7a55dcff-9f0c-4e07-970b-dffbac0613b4 with model phi3:mini
+2025-08-11 15:13:33,097 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-11 15:13:33,098 - INFO - Request 7a55dcff-9f0c-4e07-970b-dffbac0613b4 completed successfully.
+2025-08-11 15:14:16,170 - INFO - Processing website generation request 8891d418-cfae-41f1-9667-9285bfbc95f1
+2025-08-11 15:14:16,181 - INFO - Website generation request 8891d418-cfae-41f1-9667-9285bfbc95f1 completed successfully. URL: /websites/e0ee6767-6e61-4501-9777-66b6cd945600/index.html
+2025-08-11 15:14:17,966 - INFO - Processing website generation request 96ff48da-e5f6-42fb-ba63-68bf6a8e9944
+2025-08-11 15:14:17,977 - INFO - Website generation request 96ff48da-e5f6-42fb-ba63-68bf6a8e9944 completed successfully. URL: /websites/3e32d5da-a89d-4b1f-94c9-b4d8ce629140/index.html
+2025-08-11 15:15:29,116 - WARNING - API_ACCESS_KEY environment variable not set. The API will not require authentication.
+2025-08-11 15:15:29,130 - INFO - Checking connection to Ollama...
+2025-08-11 15:15:29,142 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-08-11 15:15:29,142 - INFO - Ollama connection successful.
+2025-08-11 15:15:29,151 - INFO - Shutting down API service.
+2025-08-11 15:15:55,208 - WARNING - API_ACCESS_KEY environment variable not set. The API will not require authentication.
+2025-08-11 15:15:55,222 - INFO - Checking connection to Ollama...
+2025-08-11 15:15:55,229 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-08-11 15:15:55,230 - INFO - Ollama connection successful.
+2025-08-11 15:49:41,815 - WARNING - API_ACCESS_KEY environment variable not set. The API will not require authentication.
+2025-08-11 15:49:41,831 - INFO - Checking connection to Ollama...
+2025-08-11 15:49:41,839 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-08-11 15:49:41,840 - INFO - Ollama connection successful.

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+ollama
+aiofiles
+
+# For structured logging and timezone handling
+pytz
